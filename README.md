@@ -205,6 +205,4 @@ this case, we limited it to only make the `show` action available.
 
 Run the tests for a final time, and they should still be passing! Nice work!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-dynamic-request-readme'>Rails Dynamic Request</a> on Learn.co and start learning to code for free.</p>
-
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-dynamic-request-readme'>Rails Dynamic Request</a> on Learn.co and start learning to code for free.</p>
